@@ -65,10 +65,10 @@ export function Contact() {
     {
       icon: <Mail className="h-6 w-6" />,
       title: "Email",
-      value: "priyanshi@example.com",
+      value: "er.priyanshi.gupta.14@gmail.com",
       description: "Drop me a line anytime",
       color: "from-purple-500 to-pink-500",
-      href: "mailto:priyanshi@example.com",
+      href: "mailto:er.priyanshi.gupta.14@gmail.com",
     },
     {
       icon: <MapPin className="h-6 w-6" />,

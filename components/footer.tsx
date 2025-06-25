@@ -54,7 +54,7 @@ export function Footer() {
           {/* Copyright */}
           <div className="pt-8 border-t border-purple-700">
             <p className="text-purple-300 text-sm">
-              © {currentYear} Priyanshi Gupta. All rights reserved. Built with Next.js & Tailwind CSS
+              © {currentYear} Priyanshi Gupta. All rights reserved.
             </p>
           </div>
         </div>

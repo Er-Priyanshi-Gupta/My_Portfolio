@@ -8,7 +8,7 @@ export function Experience() {
   const workExperience = {
     company: "EchoTech",
     role: "Frontend Developer",
-    duration: "2022 - Present",
+    duration: "2022 - 2023",
     location: "India",
     type: "Full-time",
     description: [
