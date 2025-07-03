@@ -59,7 +59,7 @@ export function Hero() {
             <div className="w-48 h-48 mx-auto mb-8 rounded-full bg-gradient-to-r from-purple-400 via-pink-400 to-indigo-400 p-1 animate-spin-slow">
               <div className="w-full h-full rounded-full bg-white dark:bg-gray-900 flex items-center justify-center overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=180&width=180"
+                  src="https://i.pinimg.com/236x/b2/94/0e/b2940efd903c3d6296c77442ba350c34.jpg"
                   alt="Priyanshi Gupta"
                   className="w-full h-full object-cover rounded-full"
                 />
